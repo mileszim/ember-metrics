@@ -67,6 +67,10 @@ Writing your own adapters for currently unsupported analytics services is easy t
 
     - `instrumentationKey`: [Instrumentation Key](https://github.com/microsoft/ApplicationInsights-JS#configuration)
 
+1. `Ahoy.js`
+   
+    - `urlPrefix`: [URL where metics go](https://github.com/ankane/ahoy.js#configuration)
+
 #### Community adapters
 
 1. `Adobe Dynamic Tag Management`
