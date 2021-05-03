@@ -36,7 +36,8 @@
     "mixpanel",
     "piwik",
     "intercom",
-    "facebook-pixel"
+    "facebook-pixel",
+    "ahoy"
   ],
   "devDependencies": {
     "@ember/optional-features": "^2.0.0",

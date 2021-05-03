@@ -174,6 +174,15 @@ module.exports = function(environment) {
         }
       },
       {
+        name: 'Ahoy',
+        environments: ['production'],
+        config: {
+          urlPrefix: 'https://my.app.domain/api/v1',
+          // ...other ahoy configuration options
+          // https://github.com/ankane/ahoy.js#configuration
+        }
+      },
+      {
         name: 'LocalAdapter',
         environments: ['all'], // default
         config: {

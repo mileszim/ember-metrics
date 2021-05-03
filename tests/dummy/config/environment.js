@@ -30,6 +30,7 @@ module.exports = function(environment) {
         'facebook-pixel',
         'amplitude',
         'azure-app-insights',
+        'ahoy',
       ]
     },
 
